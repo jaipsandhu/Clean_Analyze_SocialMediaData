@@ -20,9 +20,8 @@ This project shows how to generate, clean, analyze, and visualize social media e
 - random – random assignment of categories
 
 ## Project Structure
-Clean_Analayze_SocialMediaData/
-│-- social_media_analysis.py   # Main Python script
-│-- README.md                  # Documentation
+- social_media_analysis.py   # Main Python script
+- README.md                  # Documentation
 
 ## How to Run
 1. Clone the repository:
